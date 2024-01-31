@@ -6,7 +6,7 @@ public class Birthday_Wishes {
 		// Print Birth day Wishes for 24 times
 		for (int i = 1; i <=24; i++) {
 			{
-				System.out.println("HAPPY BIRTH DAY@MOUNIKA::::::::::::"+i);
+				System.out.println("HAPPY BIRTH DAY@Vindya::::::::::::"+i);
 			}
 			
 		}

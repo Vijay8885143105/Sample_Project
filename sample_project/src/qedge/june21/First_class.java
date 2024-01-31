@@ -4,7 +4,7 @@ public class First_class {
 
 	public static void main(String[] args) {
 		// print name for ten times
-        for (int i = 1; i <=30; i++) {
+        for (int i = 1; i <75; i++) {
         	System.out.println("Vijay patel.sheri:::::"+i);
 			
 		}
